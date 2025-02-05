@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2 align="center">  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Sergio 🎺</h2>
+  <h2 align="center">  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Sergio🎺</h2>
   
   <p align="center">
     <a href="#">
