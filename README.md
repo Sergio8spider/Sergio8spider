@@ -1,6 +1,8 @@
 <div align="center">
   
-  <h2 align="center">  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Sergio🎺</h2>
+  <h2 align="center"> Hello <picture>
+                            <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" type="image/webp">
+                            <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="32" height="32"></picture>!  I'm Sergio🎺</h2>
   
   <p align="center">
     <a href="#">
