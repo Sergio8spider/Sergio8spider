@@ -7,7 +7,7 @@
   <br><br>
 
   <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2plNWNtY3p5cmxscjJrazY5ZWRzYTlveG5iMnhkNTlxMjF4em9hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BCS1brUK8iUEQT7D44/giphy.gif"  width="700px">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2plNWNtY3p5cmxscjJrazY5ZWRzYTlveG5iMnhkNTlxMjF4em9hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BCS1brUK8iUEQT7D44/giphy.gif"  width="900px">
   </div><br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio8spider\&rank_icon=github&theme=vue-dark)
