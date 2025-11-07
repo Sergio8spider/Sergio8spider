@@ -5,10 +5,6 @@
   <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="32" height="32"></picture>!  I'm Sergio🎺</h1>
   <br><br>
-
-  <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2plNWNtY3p5cmxscjJrazY5ZWRzYTlveG5iMnhkNTlxMjF4em9hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BCS1brUK8iUEQT7D44/giphy.gif"  width="750px">
-  </div><br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio8spider\&rank_icon=github&theme=vue-dark)
   
